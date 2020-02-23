@@ -1,0 +1,33 @@
+site_name: STIC - Portal de Proyectos y Documentación
+nav:
+- Home: 'index.md'
+- Proyectos:
+    - 'STIC Cloud': 'proyectos/cloud.md'
+    - 'Data Warehouse': 'proyectos/dw.md'
+    - 'Portal de transparencia': 'proyectos/transparencia.md'
+- Recursos:
+    - 'Tutoriales': 'recursos/tutoriales.md'
+    - 'Formación': 'recursos/formacion.md'
+    - 'Blog': 'recursos/blog.md'
+- Noticias: 'noticias.md'
+- Acerca de: 'about.md'
+
+theme:
+  name: 'material'
+  font:
+    text: 'Catamaran'
+  logo: 'logo.png'
+  favicon: 'img/favicon.ico'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/squidfunk'
+    - type: 'twitter'
+      link: 'https://twitter.com/squidfunk'
+
+repo_name: 'Repositorio GitLab'
+repo_url: 'https://gitlab.com/ualmtorres/TemarioGestionGrandesVolumenesDeDatos2015'
+
+markdown_extensions:
+  - admonition
