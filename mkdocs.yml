@@ -22,12 +22,12 @@ theme:
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/squidfunk'
+      link: 'https://github.com/ualmtorres'
     - type: 'twitter'
-      link: 'https://twitter.com/squidfunk'
+      link: 'https://twitter.com/ualmtorres'
 
-repo_name: 'Repositorio GitLab'
-repo_url: 'https://gitlab.com/ualmtorres/TemarioGestionGrandesVolumenesDeDatos2015'
+repo_name: 'Repositorio del portal'
+repo_url: 'https://github.com/ualmtorres/portalstic'
 
 markdown_extensions:
   - admonition
