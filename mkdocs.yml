@@ -31,7 +31,7 @@ extra:
       link: 'https://twitter.com/ualmtorres'
 
 repo_name: 'Repositorio del portal'
-repo_url: 'https://github.com/ualmtorres/portalstic'
+repo_url: 'http://gitlab.ual.es/mtorres/portalstic.git'
 
 markdown_extensions:
   - admonition

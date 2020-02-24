@@ -2,8 +2,6 @@
 
 ## General
 
-Ullamco aliquip id labore ullamco anim. Do amet aliquip reprehenderit esse do ea ad ut tempor exercitation velit fugiat anim. Magna laboris labore excepteur in deserunt laboris. Aliqua tempor ullamco Lorem eu proident occaecat quis exercitation ea consequat. Reprehenderit irure enim aliqua pariatur enim ipsum cillum dolor ad magna cupidatat.
-
 * [Operaciones básicas en OpenStack](https://ualmtorres.github.io/OpenStackDI/)
 * [Introducción a Docker](https://ualmtorres.github.io/SeminarioDockerPresentacion/)
 * [Introducción a Kubernetes](https://ualmtorres.github.io/SeminarioKubernetes/)
