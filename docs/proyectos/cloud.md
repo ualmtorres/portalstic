@@ -2,15 +2,15 @@
 
 ## Enlaces
 
-* Repositorio: [https://gitlabdoc.ual.es/mtorres/bdge2019](https://gitlabdoc.ual.es/mtorres/bdge2019)
-* Issues: [https://gitlab.com/groups/gitlab-org/gitter/-/issues](https://gitlab.com/groups/gitlab-org/gitter/-/issues)
-* Epics: [https://gitlab.com/groups/gitlab-org/-/epics](https://gitlab.com/groups/gitlab-org/-/epics)
-* Chat: [http://192.168.65.21 (mtorres/mtorres)/](http://192.168.65.21/)
-* Agenda: [https://gitlab.com/groups/gitlab-org/-/boards/969495?milestone_title=11.10&&label_name[]=Verify%20%5BDEPRECATED%5D](https://gitlab.com/groups/gitlab-org/-/boards/969495?milestone_title=11.10&&label_name[]=Verify%20%5BDEPRECATED%5D)
-* Sprints: [https://gitlab.com/gitlab-org/gitter/webapp/-/milestones?sort=due_date_desc&state=closed](https://gitlab.com/gitlab-org/gitter/webapp/-/milestones?sort=due_date_desc&state=closed)
-* Roadmap: [https://gitlab.com/groups/gitlab-org/-/roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap)
-* Drive: [https://drive.google.com/open?id=1wuxdWzKuAc61UvocLMgfRCGt03r9aXT8](https://drive.google.com/open?id=1wuxdWzKuAc61UvocLMgfRCGt03r9aXT8)
-* Web: [http://192.168.67.21/index.php](http://192.168.67.21/index.php)
+* [Repositorio](https://gitlabdoc.ual.es/mtorres/bdge2019)
+* [Issues](https://gitlab.com/groups/gitlab-org/gitter/-/issues)
+* [Epics](https://gitlab.com/groups/gitlab-org/-/epics)
+* [Chat](http://192.168.65.21/)
+* [Agenda](https://gitlab.com/groups/gitlab-org/-/boards/969495?milestone_title=11.10&&label_name[]=Verify%20%5BDEPRECATED%5D)
+* [Sprints](https://gitlab.com/gitlab-org/gitter/webapp/-/milestones?sort=due_date_desc&state=closed)
+* [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap)
+* [Drive](https://drive.google.com/open?id=1wuxdWzKuAc61UvocLMgfRCGt03r9aXT8)
+* [Web](http://192.168.67.21/index.php)
 
 
 ## Descripción
