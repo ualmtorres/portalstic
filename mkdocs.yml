@@ -1,4 +1,6 @@
 site_name: STIC - Portal de Proyectos y Documentación
+site_url: http://192.168.67.10
+
 nav:
 - Home: 'index.md'
 - Proyectos:
