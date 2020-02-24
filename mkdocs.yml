@@ -4,6 +4,7 @@ site_url: http://192.168.67.10
 nav:
 - Home: 'index.md'
 - Proyectos:
+    - 'Portal STIC': 'proyectos/portal,md'
     - 'STIC Cloud': 'proyectos/cloud.md'
     - 'Data Warehouse': 'proyectos/dw.md'
     - 'Portal de transparencia': 'proyectos/transparencia.md'
