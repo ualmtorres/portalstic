@@ -1,8 +1,13 @@
 # Presentaciones
 
-## Duis culpa
+## Cartera de Proyectos
 
-Duis culpa nulla esse consectetur aliquip in anim eiusmod mollit. In pariatur in proident incididunt amet deserunt proident. Sunt ea duis ut aute dolore laborum sit. Est culpa incididunt et aute est eiusmod Lorem minim cillum deserunt. Tempor laboris cillum est ea non ipsum occaecat proident nostrud officia sit ea dolor deserunt. Qui excepteur sint enim anim do eu. Minim culpa cillum consequat excepteur quis eu voluptate ad non eiusmod pariatur sunt do aute.  [Seguir leyendo]()
+### Presentación Cartera de Proyectos
+
+* Fecha: 2019-02-21
+* Ponentes: Diego Pérez y José Antonio Martínez
+* Resumen: Presentación de la propuesta para poner en marcha una cartera de proyectos. Se presentan los objetivos, y posibles beneficios y riesgos asociados. Se presenta una propuesta de procedimiento y plazos de ejecución.
+* [Descarga](https://alfresco.ual.es/share/page/document-details?nodeRef=workspace://SpacesStore/db8b28d2-1c7d-4765-97f6-3752ea497934)
 
 ## Commodo cillu
 
