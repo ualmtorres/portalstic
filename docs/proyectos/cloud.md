@@ -2,15 +2,15 @@
 
 ## Enlaces
 
-* [Repositorio](https://gitlabdoc.ual.es/mtorres/bdge2019)
-* [Issues](https://gitlab.com/groups/gitlab-org/gitter/-/issues)
-* [Epics](https://gitlab.com/groups/gitlab-org/-/epics)
-* [Chat](http://192.168.65.21/)
-* [Agenda](https://gitlab.com/groups/gitlab-org/-/boards/969495?milestone_title=11.10&&label_name[]=Verify%20%5BDEPRECATED%5D)
-* [Sprints](https://gitlab.com/gitlab-org/gitter/webapp/-/milestones?sort=due_date_desc&state=closed)
-* [Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap)
-* [Drive](https://drive.google.com/open?id=1wuxdWzKuAc61UvocLMgfRCGt03r9aXT8)
-* [Web](http://192.168.67.21/index.php)
+* [Repositorio - No disponible](https://gitlabdoc.ual.es/mtorres/bdge2019)
+* [Issues - No disponible](https://gitlab.com/groups/gitlab-org/gitter/-/issues)
+* [Epics - No disponible](https://gitlab.com/groups/gitlab-org/-/epics)
+* [Chat - No disponible](https://chat.stic.ual.es/)
+* [Agenda - No disponible](https://gitlab.com/groups/gitlab-org/-/boards/969495?milestone_title=11.10&&label_name[]=Verify%20%5BDEPRECATED%5D)
+* [Sprints - No disponible](https://gitlab.com/gitlab-org/gitter/webapp/-/milestones?sort=due_date_desc&state=closed)
+* [Roadmap - No disponible](https://gitlab.com/groups/gitlab-org/-/roadmap)
+* [Drive - No disponible](https://drive.google.com/open?id=1wuxdWzKuAc61UvocLMgfRCGt03r9aXT8)
+* [Web](http://openstack.stic.ual.es/horizon)
 
 
 ## Descripción
@@ -56,3 +56,10 @@ Aliqua ad dolore id ipsum tempor duis dolore magna exercitation. Et laboris aliq
 Pariatur officia labore eiusmod culpa irure excepteur cupidatat proident id cillum. Anim amet elit elit dolor consectetur do ex laborum aliquip fugiat voluptate id ipsum amet. Ipsum Lorem voluptate veniam irure cupidatat ut magna.
 
 Voluptate veniam voluptate velit tempor proident Lorem anim cillum cupidatat proident. Consequat ipsum ad fugiat amet eu amet eu adipisicing exercitation ea cillum. Ea labore veniam enim non aliqua duis cupidatat laboris. Ipsum nulla culpa non nostrud.
+
+## Tricks
+
+### Modificaciones para LBaaS
+
+El componente LBaaS está sin mantenimiento para las versiones actuales de OpenStack, Ubuntu y Python por lo que hay que hacer un cambio manual. De no hacerlo, OpenStack informa de un error de falta de correspondencia en el número de argumentos.
+
