@@ -13,44 +13,43 @@
 
 ## Descripción
 
-Magna occaecat occaecat veniam nostrud culpa dolore adipisicing. Consectetur fugiat anim irure exercitation fugiat ex non. Laborum est dolore amet do laborum consequat est ex consectetur laborum amet culpa. Veniam aliquip labore ex duis amet labore minim excepteur Lorem labore. Nostrud cupidatat commodo eiusmod non consequat. Voluptate culpa exercitation incididunt ullamco nisi quis ullamco culpa labore mollit aliquip tempor do pariatur.
+Portal STIC nace de la necesidad de disponer un lugar de acceso unificado tanto a los proyectos desarrollados en el STIC como a recursos de información de interés (documentos, tutoriales, formación, presentaciones, ...).
 
+El portal está desarrollado en [Markdown](https://markdown.es/) y está desplegado mediante [MkDocs](https://www.mkdocs.org/), un generador de sitios web estáticos. Se usa el tema [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) para una mejor experiencia de usuario.
+ 
 ## Dirigido a
 
-Lorem eiusmod esse cupidatat exercitation cillum in eu aliquip fugiat tempor tempor et officia. Et ut veniam cupidatat enim culpa excepteur tempor fugiat elit fugiat commodo deserunt id. Sit veniam laboris ut nulla. Exercitation anim irure quis ex consequat ipsum elit pariatur occaecat deserunt nisi.
-
-Aute eu adipisicing ipsum consequat tempor ex incididunt dolor sint exercitation qui qui laborum. Laboris do exercitation enim tempor magna culpa laboris. Ullamco id laborum Lorem id tempor esse do exercitation est in. Sunt voluptate velit nisi sint mollit occaecat ea qui voluptate consequat in consectetur. Duis ea sit cillum eiusmod sunt amet velit dolor.
+Miembros del STIC.
 
 ## Background
 
-Nulla ex id aute aliquip ut consequat et duis dolore magna aute eiusmod. Ex culpa eiusmod anim officia consectetur cillum duis mollit nostrud ex. Incididunt ad reprehenderit ut veniam irure aute reprehenderit occaecat labore velit ea consectetur velit pariatur.
+En el STIC se desarrollan gran cantidad de proyectos (con su documentación asociada), informes, presentaciones, y demás. Sin embargo, a veces no se sigue un criterio con cierto grado de consistencia para la creación de la documentación. Además, todos esos recursos están almacenados en plataformas diferentes (Alfresco, Redmine, GitLab, Wiki, Google Drive, Google Docs, ...), lo que dificulta su acceso.
 
-Excepteur dolore labore dolore do reprehenderit do ut minim culpa. Ipsum incididunt nisi ad exercitation Lorem deserunt sit anim culpa voluptate. Minim dolore id excepteur dolore enim sit exercitation nisi id labore sit sit consectetur mollit. Laborum ullamco tempor officia cillum occaecat consectetur magna in irure anim cillum non veniam. Lorem fugiat exercitation aute adipisicing eiusmod duis elit. Exercitation proident id cillum reprehenderit aliqua.
+El intento de disponer de una única herramienta o plataforma que sea válida para todos los documentos y todas las situaciones impide la consecución del objetivo perseguido, que es el tener acceso a la información de interés, independientemente del soporte o plataforma en el que esté almnacenado.
 
 ## Propuesta
 
-Amet eu aute sunt sint culpa esse sint non qui dolor cupidatat cupidatat laborum. Elit et ipsum qui ad. Qui consectetur excepteur pariatur in est dolore exercitation pariatur ullamco excepteur anim adipisicing dolore eu.
+Disponer de una plataforma que sea fácil de usar, sea rápida y permita un mantenimiento colaborativo.
+
+En este sentido, Portal STIC está desarrollado como un conjunto de documentos `markdown` editables por los usuarios. La edición puede incluir contenido dentro de los propios archivos del portal o bien enlazar a las URL donde esté disponible el recurso.
+
+El portal está disponible en un repositorio Git en [GitLab de desarrollo](http://gitlab.ual.es/mtorres/portalstic.git). Para editar el portal, se deberá hacer un _fork_ del repositorio del portal y solicitar la incorporación del cambio mediante _merge request_. Una vez aceptados los cambios, el portal se actualizará de forma automática tras unos instantes.
 
 ## Permisos y seguridad
 
-Adipisicing commodo nisi fugiat laborum occaecat ullamco. Ea amet ex enim et. Sint id laboris aliquip cupidatat labore ut cillum elit dolore nulla occaecat ut laboris. Nostrud eu consectetur consectetur ad. Sit sint culpa esse et ullamco ullamco laborum amet sit non. Non magna deserunt laborum ut est cillum in sunt et irure amet aliquip sit eiusmod.
-
-Cillum ex est laborum ad nulla. Consectetur ea sunt est voluptate tempor esse. Do id cillum cupidatat fugiat deserunt consectetur id adipisicing sit proident labore amet labore reprehenderit. Aliquip cillum culpa elit adipisicing in aliquip proident aliquip consectetur magna aliquip officia incididunt duis. Amet id aliqua amet Lorem nostrud aute elit tempor id exercitation do in veniam duis. Et cupidatat do laborum reprehenderit in.
+* Acceso a la documentación a todo el personal del STIC
+* Edición reservada a miembros del STIC con acceso a [GitLab de desarrollo](http://gitlab.ual.es/mtorres/portalstic.git).
+* Habrá una o varias personas encargadas de controlar y validar el proceso de publicación mediante _merge request_.
 
 ## Interacciones
 
-Enim laboris velit incididunt pariatur. Cillum aliquip sunt proident enim fugiat Lorem duis nisi mollit reprehenderit amet dolor esse. Minim nulla ex labore duis fugiat elit id.
-
-Excepteur nostrud ipsum ullamco fugiat incididunt ad in commodo sint do consequat in. Irure ex tempor minim ut id et qui. Amet cupidatat nulla anim amet ea aute laborum.
-
-Commodo magna aliquip exercitation laboris veniam velit est sunt. Aliquip adipisicing pariatur est aute aliquip. Do officia aliquip sint exercitation cupidatat eiusmod deserunt anim. Officia nulla voluptate sint ipsum eiusmod nostrud fugiat adipisicing enim non ipsum consectetur laborum. Quis tempor ut sit consectetur irure enim enim elit dolor.
+* **GitLab de desarollo**: Almacena el repositorio del portal
 
 ## Documentación
 
-Nostrud dolor irure reprehenderit culpa eiusmod esse consectetur. Quis incididunt duis sint sunt est culpa sit. Aute officia nostrud aliqua amet ad incididunt cupidatat nulla officia. Dolore culpa in eu minim minim anim aliqua nostrud in sit ad. Ut consequat pariatur incididunt pariatur aute laborum. Nostrud ullamco in occaecat nisi fugiat consequat sint excepteur reprehenderit laborum culpa cillum.
+* [Sintaxis Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+* [MkDocs](https://www.mkdocs.org/#getting-started)
+* [Añadir páginas nuevas](https://www.mkdocs.org/#adding-pages)
+* [Creación de notas, información, ... (Admonitions)](https://squidfunk.github.io/mkdocs-material/extensions/admonition/#usage)
+* [Inserción de código fuente](https://squidfunk.github.io/mkdocs-material/extensions/codehilite/#usage)
 
-Aliqua ad dolore id ipsum tempor duis dolore magna exercitation. Et laboris aliqua aute exercitation aute adipisicing fugiat anim excepteur consequat. Aliquip irure tempor est aliquip ad ipsum.
-
-Pariatur officia labore eiusmod culpa irure excepteur cupidatat proident id cillum. Anim amet elit elit dolor consectetur do ex laborum aliquip fugiat voluptate id ipsum amet. Ipsum Lorem voluptate veniam irure cupidatat ut magna.
-
-Voluptate veniam voluptate velit tempor proident Lorem anim cillum cupidatat proident. Consequat ipsum ad fugiat amet eu amet eu adipisicing exercitation ea cillum. Ea labore veniam enim non aliqua duis cupidatat laboris. Ipsum nulla culpa non nostrud.
