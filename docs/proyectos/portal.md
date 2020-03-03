@@ -1,14 +1,16 @@
 # Portal STIC
 
+![](https://swnepal.com.np/wp-content/uploads/2017/10/documentation-banner.jpg)
+
 ## Enlaces
 
 * [Repositorio](http://gitlab.ual.es/mtorres/portalstic)
 * [Issues](http://gitlab.ual.es/mtorres/portalstic/issues)
-* [Chat](http://192.168.65.21/openstack/channels/portalstic)
+* [Chat](https://chat.stic.ual.es/openstack/channels/portalstic)
 * [Agenda](http://gitlab.ual.es/mtorres/portalstic/-/boards)
 * [Sprints](http://gitlab.ual.es/mtorres/portalstic/-/milestones)
 * [Drive - No disponible]()
-* [Web](http://192.168.67.10/)
+* [Web](http://portal.stic.ual.es/)
 
 
 ## Descripción
