@@ -25,16 +25,3 @@
 * Resumen: Presentación con un caso práctico de una aplicación de autoescalado, control de tráfico basado en versiones y uso de APIs para ilustrar la propuesta de cambio que se propone realizar en el STIC. Se presenta un mapa de tecnologías o _landscape_ sobre la que se realizará la formación correspondiente.
 * [Descarga](https://drive.google.com/file/d/1qQGEnC2EmtxGgWaGrhaV84nisu2V337n/view?usp=sharing)
 
-
-## Excepteur magna
-
-Excepteur magna pariatur commodo Lorem Lorem in ea ipsum. Ex Lorem aliqua consectetur labore cillum magna. Ut ex sint velit nulla qui labore excepteur laboris consequat aute aliquip laborum ex. Dolor reprehenderit et nulla laborum ullamco labore laborum in excepteur laborum laborum. Laborum Lorem tempor eiusmod non ad cillum laboris aliquip. [Seguir leyendo]()
-
-## Cillum sunt
-
-Cillum sunt id sit ad deserunt ex culpa elit esse voluptate nulla sunt elit. Do commodo fugiat incididunt consectetur minim duis in adipisicing culpa reprehenderit sit fugiat sint. Culpa elit amet voluptate ex ut ad qui laborum occaecat amet laboris. Eiusmod ea dolore voluptate ipsum exercitation est consequat do nulla in nulla. Quis fugiat ullamco excepteur officia irure. Veniam amet enim aliquip anim enim Lorem qui fugiat aute. Aute dolor nostrud consectetur duis ut ut minim nostrud consectetur aliqua veniam voluptate ipsum magna. [Seguir leyendo]()
-
-## Tempor pariatur
-
-Tempor pariatur dolor dolor fugiat sint et veniam commodo velit reprehenderit labore consectetur. Consequat excepteur ut nostrud eiusmod qui exercitation elit. Est velit nostrud ea elit labore in elit excepteur nisi. Ullamco adipisicing et cupidatat amet amet exercitation. [Seguir leyendo]()
-
