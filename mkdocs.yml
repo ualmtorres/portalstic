@@ -5,7 +5,7 @@ nav:
 - Home: 'index.md'
 - Proyectos:
     - 'Portal STIC': 'proyectos/portal.md'
-    - 'STIC Cloud': 'proyectos/cloud.md'
+    - 'OpenStack STIC': 'proyectos/openstack.md'
     - 'Data Warehouse': 'proyectos/dw.md'
     - 'Portal de transparencia': 'proyectos/transparencia.md'
 - Recursos:
