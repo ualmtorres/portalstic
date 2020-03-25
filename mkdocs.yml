@@ -1,5 +1,8 @@
 site_name: STIC - Portal de Proyectos y Documentación
 site_url: http://192.168.67.10
+repo_url: 'https://gitlab.ual.es/mtorres/portalstic/'
+repo_name: 'Repositorio del portal'
+edit_uri: edit/master/docs
 nav:
 - Home: 'index.md'
 - Proyectos:
