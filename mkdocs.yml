@@ -1,6 +1,5 @@
 site_name: STIC - Portal de Proyectos y Documentación
 site_url: http://192.168.67.10
-
 nav:
 - Home: 'index.md'
 - Proyectos:
@@ -15,6 +14,20 @@ nav:
     - 'Presentaciones': 'recursos/presentaciones.md'
     - 'Documentos': 'recursos/documentos.md'
     - 'Instalaciones': 'recursos/instalaciones.md'
+- Procedimientos:
+    - 'Portal': 'procedimientos/portal.md'
+    - 'Agiles': 'procedimientos/agiles.md'
+    - 'Git': 'procedimientos/git.md'
+    - 'APIs': 'procedimientos/api.md'
+    - 'Estilo en documentos': 'procedimientos/estilodocs.md'
+    - 'Estilo en aplicaciones': 'procedimientos/estiloapps.md'
+    - 'Revisión de código': 'procedimientos/guiarevision.md'
+    - 'Contribuciones': 'procedimientos/guiacontribucion.md'
+    - 'Solicitudes de acceso': 'procedimientos/solicitudacceso.md'
+    - 'Logging': 'procedimientos/logging.md'
+    - 'Imágenes Docker': 'procedimientos/registrodocker.md'
+    - 'Despliegues Kubernetes': 'procedimientos/kubernetes.md'
+    - 'Monitorización': 'procedimientos/monitorizacion.md'
 - Noticias: 'noticias.md'
 - Acerca de: 'about.md'
 
@@ -31,9 +44,6 @@ extra:
       link: 'https://github.com/ualmtorres'
     - type: 'twitter'
       link: 'https://twitter.com/ualmtorres'
-
-repo_name: 'Repositorio del portal'
-repo_url: 'http://gitlab.ual.es/mtorres/portalstic.git'
 
 markdown_extensions:
   - admonition
